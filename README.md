@@ -2,4 +2,4 @@
 
 Learning the basic of coding.
 
-If interested look at shecodes.io 
+If interested check out shecodes.io 
